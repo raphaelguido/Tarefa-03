@@ -1,0 +1,81 @@
+
+
+body{
+    margin: 0; /* Para remover margens padrão do corpo */
+    
+}
+
+
+
+header{
+    background-color: #f9f6f6;
+    padding: 20px;
+    box-shadow: 0 1px 1px #c9c9c9;
+    height: 70px;
+    
+}
+
+
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    line-height: 0px;
+}
+
+h1{
+    font-size: 30px;
+}
+   
+.textoapre{
+    
+    background-color: #f9f6f6;
+    box-shadow: 0 1px 1px #c9c9c9, 1px 0 1px #c9c9c9, 0 -1px 1px #c9c9c9, -1px 0 1px #c9c9c9;
+    height: 500px;
+    width: 85%;
+    border-radius: 50px;
+    margin: 0 auto;
+    display: flex;
+    position: relative;
+    top: 100px;
+}
+
+.top{
+    background-color: chartreuse;
+    height: 50px;
+    text-align: center;
+    display: flex;
+    position: absolute;
+    left: 30px;
+}
+
+.bloco1{
+    position: absolute;
+    left: 70px;
+    top: 100px;
+    background-color: rgb(63, 40, 40);
+    width: 400px;
+    text-align: center;
+
+   
+}
+
+.bloco2{
+    position: absolute;
+    left: 500px;
+    top: 100px;
+    background-color: rgb(63, 40, 40);
+    width: 400px;
+    text-align: center;
+}
+
+.bloco3{
+    position: absolute;
+    left: 930px;
+    top: 100px;
+    background-color: rgb(63, 40, 40);
+    width: 400px;
+    text-align: center;
+}
+
+    
+
